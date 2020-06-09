@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "database": "supermarket",
+            "dialect": "PostgreSQL",
+            "driver": "PostgreSQL",
+            "name": "conex",
+            "password": "password",
+            "port": 5432,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "postgres"
+        }
+    ]
+}
+
